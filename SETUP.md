@@ -103,5 +103,5 @@ FLUSH PRIVILEGES;
 
 | Role | Username | Password |
 | :--- | :--- | :--- |
-| Student | `aiman` | `123` |
+| Student | `2025839201` | `123` |
 | Lecturer | `9001` | `123` |
