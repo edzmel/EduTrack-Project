@@ -1,3 +1,5 @@
+THIS IS A WEBSITE THAT INTERGRATED WITH AI. FIRSTLY IMPORT THE SQL INTO MYSQL AND CHANGE THE SQL ROOT AND PASSWORD IN MAIN CODE. RUN NPM DEV
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
